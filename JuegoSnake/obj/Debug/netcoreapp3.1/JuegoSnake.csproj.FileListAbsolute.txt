@@ -1,0 +1,52 @@
+C:\Users\Sindy Barrera\source\repos\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.exe
+C:\Users\Sindy Barrera\source\repos\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.deps.json
+C:\Users\Sindy Barrera\source\repos\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.runtimeconfig.json
+C:\Users\Sindy Barrera\source\repos\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.runtimeconfig.dev.json
+C:\Users\Sindy Barrera\source\repos\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.dll
+C:\Users\Sindy Barrera\source\repos\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.pdb
+C:\Users\Sindy Barrera\source\repos\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.csprojAssemblyReference.cache
+C:\Users\Sindy Barrera\source\repos\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.AssemblyInfoInputs.cache
+C:\Users\Sindy Barrera\source\repos\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.AssemblyInfo.cs
+C:\Users\Sindy Barrera\source\repos\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.csproj.CoreCompileInputs.cache
+C:\Users\Sindy Barrera\source\repos\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.dll
+C:\Users\Sindy Barrera\source\repos\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.pdb
+C:\Users\Sindy Barrera\source\repos\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.genruntimeconfig.cache
+D:\Universidad\Programacion III\JUEGOSNAKE\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.exe
+D:\Universidad\Programacion III\JUEGOSNAKE\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.deps.json
+D:\Universidad\Programacion III\JUEGOSNAKE\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.runtimeconfig.json
+D:\Universidad\Programacion III\JUEGOSNAKE\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.runtimeconfig.dev.json
+D:\Universidad\Programacion III\JUEGOSNAKE\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.dll
+D:\Universidad\Programacion III\JUEGOSNAKE\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.pdb
+D:\Universidad\Programacion III\JUEGOSNAKE\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.csprojAssemblyReference.cache
+D:\Universidad\Programacion III\JUEGOSNAKE\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.AssemblyInfoInputs.cache
+D:\Universidad\Programacion III\JUEGOSNAKE\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.AssemblyInfo.cs
+D:\Universidad\Programacion III\JUEGOSNAKE\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.csproj.CoreCompileInputs.cache
+D:\Universidad\Programacion III\JUEGOSNAKE\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.dll
+D:\Universidad\Programacion III\JUEGOSNAKE\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.pdb
+D:\Universidad\Programacion III\JUEGOSNAKE\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.genruntimeconfig.cache
+C:\Users\Sindy Barrera\Desktop\Juego Snake K\JUEGOSNAKE\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.exe
+C:\Users\Sindy Barrera\Desktop\Juego Snake K\JUEGOSNAKE\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.deps.json
+C:\Users\Sindy Barrera\Desktop\Juego Snake K\JUEGOSNAKE\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.runtimeconfig.json
+C:\Users\Sindy Barrera\Desktop\Juego Snake K\JUEGOSNAKE\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.runtimeconfig.dev.json
+C:\Users\Sindy Barrera\Desktop\Juego Snake K\JUEGOSNAKE\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.dll
+C:\Users\Sindy Barrera\Desktop\Juego Snake K\JUEGOSNAKE\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.pdb
+C:\Users\Sindy Barrera\Desktop\Juego Snake K\JUEGOSNAKE\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.csprojAssemblyReference.cache
+C:\Users\Sindy Barrera\Desktop\Juego Snake K\JUEGOSNAKE\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.AssemblyInfoInputs.cache
+C:\Users\Sindy Barrera\Desktop\Juego Snake K\JUEGOSNAKE\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.AssemblyInfo.cs
+C:\Users\Sindy Barrera\Desktop\Juego Snake K\JUEGOSNAKE\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.csproj.CoreCompileInputs.cache
+C:\Users\Sindy Barrera\Desktop\Juego Snake K\JUEGOSNAKE\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.dll
+C:\Users\Sindy Barrera\Desktop\Juego Snake K\JUEGOSNAKE\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.pdb
+C:\Users\Sindy Barrera\Desktop\Juego Snake K\JUEGOSNAKE\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.genruntimeconfig.cache
+C:\Users\Sindy Barrera\Desktop\Juego Snake Estructura de datos\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.exe
+C:\Users\Sindy Barrera\Desktop\Juego Snake Estructura de datos\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.deps.json
+C:\Users\Sindy Barrera\Desktop\Juego Snake Estructura de datos\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.runtimeconfig.json
+C:\Users\Sindy Barrera\Desktop\Juego Snake Estructura de datos\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.runtimeconfig.dev.json
+C:\Users\Sindy Barrera\Desktop\Juego Snake Estructura de datos\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.dll
+C:\Users\Sindy Barrera\Desktop\Juego Snake Estructura de datos\JuegoSnake\bin\Debug\netcoreapp3.1\JuegoSnake.pdb
+C:\Users\Sindy Barrera\Desktop\Juego Snake Estructura de datos\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.csprojAssemblyReference.cache
+C:\Users\Sindy Barrera\Desktop\Juego Snake Estructura de datos\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.AssemblyInfoInputs.cache
+C:\Users\Sindy Barrera\Desktop\Juego Snake Estructura de datos\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.AssemblyInfo.cs
+C:\Users\Sindy Barrera\Desktop\Juego Snake Estructura de datos\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.csproj.CoreCompileInputs.cache
+C:\Users\Sindy Barrera\Desktop\Juego Snake Estructura de datos\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.dll
+C:\Users\Sindy Barrera\Desktop\Juego Snake Estructura de datos\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.pdb
+C:\Users\Sindy Barrera\Desktop\Juego Snake Estructura de datos\JuegoSnake\obj\Debug\netcoreapp3.1\JuegoSnake.genruntimeconfig.cache
